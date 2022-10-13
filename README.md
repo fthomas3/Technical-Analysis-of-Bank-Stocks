@@ -9,4 +9,4 @@ Brief overview of what I did in this project:
 
 • Calculated both daily and 30-day percent changes as well as standard deviations of price movements based on 2,517 values per bank to evaluate which banks would be a riskier investment
 
-# The interactive technical analysis plots will not be visible on github since I used plotly to create them. If you would like to see them, please feel free to copy the code onto a jupyter notebook. I am really sorry for any inconvinience this may cause. The rest of the visualization and analysis that I did is accessible through the github!
+# The interactive technical analysis plots will not be visible on github since I used plotly to create them. If you would like to see them, please feel free to copy the code onto a jupyter notebook. I am really sorry for any inconvinience this may cause. The rest of the visualization and analysis that I did is accessible through the github in the Technical Analysis of Bank Stocks.ipynb file. Thank you for taking a look at my work, and I hope you enjoy this project!
